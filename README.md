@@ -24,20 +24,25 @@ Hi! My name´s Isabela Reis. I studied Systems Analysis and Development at Anhan
 
 ### 🤖 Linguagens e Tecnologias
 <img align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Excel"
+    title="Excel" 
     width="30px" 
     style="padding-right: 10px;" src="https://github.com/user-attachments/assets/990b2665-4e24-4fcb-848e-74b638fe6153" 
  />
 
 
 <img   align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="PowerBI"
+    title="PowerBI" 
     width="30px" 
     style="padding-right: 10px;" src="https://github.com/user-attachments/assets/7601ec48-5bcc-44f3-9be5-aa6206426f68" />
-    
 
+   <img   align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img 
     align="left" 
     alt="HTML"
@@ -46,14 +51,22 @@ Hi! My name´s Isabela Reis. I studied Systems Analysis and Development at Anhan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+ <img   align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+          
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -62,30 +75,7 @@ Hi! My name´s Isabela Reis. I studied Systems Analysis and Development at Anhan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
