@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isabela Reis
 
-**`Analista de Dados`**
+**`Data Engineer`**
 
 Hi! My name´s Isabela Reis. I studied Systems Analysis and Development at Anhanguera Educacional, and I love technologies.
 <p align="left">
